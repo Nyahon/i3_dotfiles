@@ -1,0 +1,4 @@
+Esetroot -s /home/nyahon/Images/Wallpaper/rtcAnlu.jpg
+compton -cCGfF -b -i 0.90 --vsync opengl
+
+
